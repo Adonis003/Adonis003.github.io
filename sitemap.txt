@@ -1,3 +1,4 @@
+http://example.com/2022/05/31/README-cn/
 http://example.com/2022/05/31/MyBlog/
 http://example.com/2022/05/31/hello-world/
 http://example.com/
